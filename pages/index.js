@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Welcome to <a href="https://nextjs.org">Next.js!</a> with git push
+        Welcome to <a href="https://nextjs.org">text.txt</a> on Vercel!
       </h1>
 
       <p className="description">
